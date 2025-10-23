@@ -1,1 +1,1 @@
-# challenge-openspaxce-classifier
+# challenge-openspace-classifier
